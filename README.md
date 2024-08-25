@@ -21,8 +21,7 @@ pipe.enable_model_cpu_offload()
 
 ts_cutoff = 2
 lora_prompts = [
-    "a mahatma gandhi with salman khan and  'ameer' written on tshirt "]
-
+    "a photo man 'ameer' written on tshirt "]
 
 print("Model Loading Time is ",time.time()-st )
 
